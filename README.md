@@ -56,6 +56,13 @@ export doesn't include local files. It isn't published yet.
 - marimo puts each anywidget in its own shadow DOM, so the styles typst.ts
   adds to its SVG don't reach the rest of the notebook.
 
+## Origin
+
+Moved here on 2026-11-12 from a branch of the retired Johninunix repository,
+with its history. It's one of the read-side pieces planned for
+[xD](https://github.com/bahiamovementcenter/xD): Typst views over a system's
+data in marimo.
+
 ## Examples
 
 ```sh
